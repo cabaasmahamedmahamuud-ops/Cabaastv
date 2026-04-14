@@ -4,5 +4,11 @@
     "team2": "PSG",
     "time": "10:00pm",
     "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "team1": "Barcelona",
+    "team2": "Real Madrid",
+    "time": "9:00pm",
+    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   }
 ]
